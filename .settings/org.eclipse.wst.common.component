@@ -7,6 +7,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/main"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources/com/accenture/spring/beansConfig"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources/com/accenture/spring"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <property name="context-root" value="userLogin"/>
         <property name="java-output-path" value="/userLogin/target/classes"/>
     </wb-module>
